@@ -52,7 +52,7 @@ The user can:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/flutter-book-manager.git
+git clone https://github.com/jolenems92/back4app_demo.git
 cd flutter-book-manager
 ```
 
