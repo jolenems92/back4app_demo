@@ -1,6 +1,6 @@
 # back4app_demo
 
-# 📚 Flutter Book Manager App with Back4App
+# 📚 Flutter Student Management App with Back4App
 
 This Flutter application demonstrates how to integrate **Parse Server** via **Back4App** to handle **user authentication** and **CRUD operations** for storing student records (name and age).  
 
